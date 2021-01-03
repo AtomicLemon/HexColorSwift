@@ -1,2 +1,3 @@
 # HexColorSwift
-Use hex codes in Swift
+
+A description of this package.
