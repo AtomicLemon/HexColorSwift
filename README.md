@@ -1,4 +1,4 @@
-# HexColorSwift ![Swift](https://github.com/AtomicLemon/HexColorSwift/workflows/Swift/badge.svg)
+# HexColorSwift ![Build](https://github.com/AtomicLemon/HexColorSwift/workflows/Swift/badge.svg)
 
 Use color hex codes in Swift.
 
